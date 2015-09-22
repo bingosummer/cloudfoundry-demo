@@ -1,0 +1,5 @@
+---
+applications:
+  - name: demo
+    command: node demo.js
+    instances: 1
